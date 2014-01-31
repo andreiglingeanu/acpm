@@ -1,0 +1,5 @@
+# http://stackoverflow.com/questions/9162919/whitelisting-and-subdirectories-in-git
+*
+!*/
+!*.pas
+!.gitignore
